@@ -5,7 +5,8 @@ config.py
 API_practice.ipynb_checkpoints
 API_practice.ipynb
 random_numbers.ipynb
-
+config.py
+config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
